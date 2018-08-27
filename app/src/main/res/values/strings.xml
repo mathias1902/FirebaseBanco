@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseBanco</string>
+
+    <string-array name="nivel_grad">
+        <item>Básico</item>
+        <item>Médio</item>]
+        <item>Graduação</item>
+        <item>Pós</item>
+    </string-array>
+</resources>
